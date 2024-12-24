@@ -67,7 +67,7 @@ Bye ✌️
 
 ## 📸 Example Images
 
-![Example Screen short of Calculator Script](https://github.com/HaarisIqubal/shell-project/blob/main/calculator/screenshots/example.jpeg)
+![Example Screen short of Calculator Script](https://github.com/HaarisIqubal/shell-projects/blob/main/calculator/screenshots/example.jpeg)
 
 ## 🤝 Contributing
 

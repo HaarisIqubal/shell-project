@@ -98,7 +98,7 @@ So you later 👋 !!!
 
 ## 📸 Example Images
 
-
+![Example Screen short of Calculator Script](https://github.com/HaarisIqubal/shell-projects/blob/main/todo/screenshots/todo.jpeg)
 
 ## 🤝 Contributing
 

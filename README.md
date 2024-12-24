@@ -20,6 +20,14 @@ Perform mathematical operations right from the terminal! 🧮
 Able to persistently store data inside file using terminal interface! 📀
 [Link](https://github.com/HaarisIqubal/shell-projects/tree/main/todo)
 
+- 🌦️ **Weather App CLI**:
+Check city weather of around the world using Command line. ☔️
+[Link](https://github.com/HaarisIqubal/shell-projects/tree/main/weather-app)
+
+- 🔑 **CLI Password Generator**:
+Generate password using CLI view using openssl library. 🔐
+[Link](https://github.com/HaarisIqubal/shell-projects/tree/main/password-generator)
+
 # 🚀 How to Use?
 
 1. Clone the repository:

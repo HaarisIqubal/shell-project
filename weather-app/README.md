@@ -2,6 +2,8 @@
 
 A simple and interactive Command Line Interface (CLI) tool built with zsh scripting to check the current weather of any city! ☀️🌧️ Perfect for quick weather updates without leaving the terminal.
 
+![Example Screen short of Password Generator](https://github.com/HaarisIqubal/shell-projects/blob/main/weather-app/screenshots/weather.jpeg)
+
 ## 🌟 Features
 
 - 🌍 **City Weather Updates**: Get real-time weather information for any city worldwide.
@@ -71,10 +73,6 @@ Enter your choice:
 It's nice to meet you, see you again with some weather news. Bye ☁️.
 
 ```
-
-## 📸 Example Images
-
-![Example Screen short of Password Generator]()
 
 ## 🤝 Contributing
 

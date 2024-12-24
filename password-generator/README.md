@@ -2,6 +2,8 @@
 
 A lightweight, fast, and secure password generator built with zsh scripting! 🎉 This script uses the powerful OpenSSL library to create random, secure passwords of customizable length. Whether you're setting up accounts or need passwords for secure applications, this tool has got you covered. 🛡️✨
 
+![Example Screen short of Password Generator](https://github.com/HaarisIqubal/shell-projects/blob/main/password-generator/screenshots/password-gen.jpeg)
+
 ## 🌟 Features
 
 - 🧩 **Customizable Length**: Generate passwords of any desired length.
@@ -63,10 +65,6 @@ RX%&a9T4bCZQ
 - Uses a for loop to generate 5 passwords.
 - Employs the OpenSSL library with Base64 encoding for randomness.
 - Trims the output to the specified password length using cut.
-
-## 📸 Example Images
-
-![Example Screen short of Password Generator]()
 
 ## 📜 Requirements
 

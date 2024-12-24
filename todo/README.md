@@ -22,20 +22,22 @@ A lightweight and interactive To-Do List Manager built using Zsh scripting. Perf
 
 ## 🛠️ How to Run
 
-1. Check the shebang operator and guide the bin profile of your bash library
-
-```bash
-#!/bin/zsh
-```
-2. Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/HaarisIqubal/todo.git  
 ```
-3. Change the directory:
+2. Change the directory:
 ```bash
 cd todo
 ```
+
+3. Check the shebang operator and guide the bin profile of your bash library
+
+```bash
+#!/bin/zsh
+```
+
 4. Make the script executable:
 ```bash
 chmod +x todo.sh

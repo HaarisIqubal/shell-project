@@ -13,14 +13,15 @@ This Shell Calculator Script is a lightweight, interactive tool designed to perf
 
 1. Check the shebang operator and guide the bin profile of your bash library
 
-```
+```bash
 #!/bin/zsh
 ```
 
 2. Clone the repository:
 
-```
+```bash
 git clone https://github.com/HaarisIqubal/shell-project/calculator.git  
+
 ```
 3. Change directory to move inside the directory
 ```
@@ -28,12 +29,13 @@ cd calculator
 ```
 
 4. Make the script executable:
-```
+
+```bash
 chmod +x calculator.sh
 ```
 
 5. Run the script:
-```
+```bash
 ./calculator.sh
 ```
 
@@ -65,7 +67,7 @@ Bye ✌️
 
 ## 📸 Example Images
 
-
+![Example Screen short of Calculator Script](https://github.com/HaarisIqubal/shell-project/blob/main/calculator/screenshots/example.jpeg)
 
 ## 🤝 Contributing
 

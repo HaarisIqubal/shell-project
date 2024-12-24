@@ -4,25 +4,21 @@ Welcome to the Shell Projects Library, a collection of automation and scripting 
 
 ## 🌟 Highlights of the Repository
 
-- 🔧 Automation Scripts: Solve everyday tasks efficiently and automate the mundane.
+- 🔧 **Automation Scripts**: Solve everyday tasks efficiently and automate the mundane.
 
-- 📂 Mini-Projects: Demonstrates practical applications of Shell scripting in real-world scenarios.
+- 📂 **Mini-Projects**: Demonstrates practical applications of Shell scripting in real-world scenarios.
 
-- 🎓 Learning Milestones: Showcases the evolution of my skills in Shell programming.
+- 🎓 **Learning Milestones**: Showcases the evolution of my skills in Shell programming.
 
 ## 📜 What's Inside?
 
-- 📁 File Management Utilities:
-Simplify operations like file searching, sorting, and batch renaming.
-
-- 🔢 Calculator Scripts:
+- 🔢 **Calculator Scripts**:
 Perform mathematical operations right from the terminal! 🧮
+[Link](https://github.com/HaarisIqubal/shell-projects/tree/main/calculator)
 
-- ⏳ Productivity Tools:
-Timers, reminders, and task management made easy.
-
-- 📜 Log Analyzers:
-Analyze logs for meaningful insights and reporting.
+- 📝 **Simple To-Do List Manager**:
+Able to persistently store data inside file using terminal interface! 📀
+[Link](https://github.com/HaarisIqubal/shell-projects/tree/main/todo)
 
 # 🚀 How to Use?
 

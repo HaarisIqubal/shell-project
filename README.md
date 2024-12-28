@@ -28,6 +28,9 @@ Check city weather of around the world using Command line. ☔️
 Generate password using CLI view using openssl library. 🔐
 [Link](https://github.com/HaarisIqubal/shell-projects/tree/main/password-generator)
 
+- ⏳ **CLI Based Timer**:
+Run timer inside the terminal window. [Link](https://github.com/HaarisIqubal/shell-projects/tree/main/timer)
+
 # 🚀 How to Use?
 
 1. Clone the repository:

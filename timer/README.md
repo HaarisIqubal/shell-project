@@ -5,8 +5,11 @@ A simple and interactive Command Line Timer written in Bash. This script allows 
 ## 🌟 Features
 
 🕒 **Custom Timer Duration**: Set a timer in minutes based on your input.
+
 📟 **Real-Time Countdown**: Displays hours, minutes, and seconds dynamically in the terminal.
+
 ✅ **Input Validation**: Ensures the timer duration is a valid positive integer.
+
 🎉 **Completion Notification**: Notifies you when the time is up with a celebratory message.
 
 ## 🛠️ How to Use
